@@ -1,12 +1,12 @@
 UTS Aplikasi Manajemen Inventaris (Laravel)
 
 
-Nama Mahasiswa	    :Ahmad Badrul Furqon
-NIM					:2495114004
-Kelas				:TI A
-Tanggal Ujian		:19 Oktober 2026
-Waktu Mulai			: 18.23
-Waktu Selesai		: 18.54
+Nama Mahasiswa	    :Ahmad Badrul Furqon;
+NIM					:2495114004;
+Kelas				:TI A;
+Tanggal Ujian		:19 Oktober 2026;
+Waktu Mulai			: 18.23;
+Waktu Selesai		: 18.54;
 
 
 Aplikasi inventaris toko perlengkapan komputer dengan login serta CRUD kategori dan barang.
